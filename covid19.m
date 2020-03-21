@@ -1,5 +1,5 @@
-% Asumiendo un modelo exponencial de la forma a*exp(b*x), esta 
-% sería la forma en que crecería el número de casos de COVID-19 
+% Asumiendo un modelo exponencial de la forma a*exp(b*x), este 
+% sería el crecimiento del número de casos de COVID-19 
 % en los próximos días (con límites de confianza del 95%):
 
 %Este modelo fue ajustado usando los datos recopilados entre el 3 y 19 de marzo
